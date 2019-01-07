@@ -12,6 +12,6 @@ Misskeyのロゴとアイコンのセットです。
 ## 著作権 Copyright
 ©Misskey 2017
 
-## ライセンス Liscense
+## ライセンス License
 ファイルはMisskeyに関連する用途であれば制限なく自由に利用できます。  
 Files can be freely used if it is related to Misskey.
