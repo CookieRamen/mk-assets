@@ -6,3 +6,4 @@
 | #2ba3bc          | Misskeyアイコン | アイコンに使われる色                              |
 | #fb4e4e          | Misskeyレッド   | Misskey Webのプライマリカラー                     |
 | #282C37          | Misskeyダーク   | Misskey Webのベースダークテーマのセカンダリカラー |
+| #105779          | 藍              | メタタグに指定されたテーマカラー                  |
