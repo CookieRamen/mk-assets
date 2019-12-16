@@ -7,6 +7,7 @@ Misskeyのロゴとアイコンのセットです。
 - mi-c-w.svg
 - mi-w-c.svg
 - mi.svg
+- mi-icon.svg
 - misskey.svg
 
 ## 著作権 Copyright
@@ -14,4 +15,4 @@ Misskeyのロゴとアイコンのセットです。
 
 ## ライセンス License
 ファイルはMisskeyに関連する用途であれば制限なく自由に利用できます。  
-Files can be freely used if it is related to Misskey.
+You can freely use these icons if it is related to Misskey.
