@@ -15,4 +15,4 @@ Misskeyのロゴとアイコンのセットです。
 
 ## ライセンス License
 ファイルはMisskeyに関連する用途であれば制限なく自由に利用できます。  
-You can freely use these icons if it is related to Misskey.
+You can use these icons freely if it is related to Misskey.
